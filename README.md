@@ -2,11 +2,19 @@
 
 ### Getting Started
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+## Development
+### Project Setup
 ```
-> git clone https://github.com/hafiskarim/my-youtube-search-api.git
-> cd my-youtube-search-api
-> npm install
-> npm start
+git clone https://github.com/hafiskarim/cat-friends.git
+npm install
+```
+
+### Start Development Local
+```
+npm start
+```
+
+### Build for Production
+```
+npm build
+```
