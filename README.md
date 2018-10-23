@@ -5,7 +5,7 @@
 ## Development
 ### Project Setup
 ```
-git clone https://github.com/hafiskarim/cat-friends.git
+git clone https://github.com/hafiskarim/my-youtube-search-api.git
 npm install
 ```
 
