@@ -3,7 +3,7 @@
 ### Getting Started
 
 ## Development
-### Installations
+### Installation
 ```
 git clone https://github.com/hafiskarim/my-youtube-search-api.git
 npm install
